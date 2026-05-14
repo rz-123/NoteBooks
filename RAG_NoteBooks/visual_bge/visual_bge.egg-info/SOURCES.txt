@@ -1,0 +1,6 @@
+setup.py
+visual_bge.egg-info/PKG-INFO
+visual_bge.egg-info/SOURCES.txt
+visual_bge.egg-info/dependency_links.txt
+visual_bge.egg-info/requires.txt
+visual_bge.egg-info/top_level.txt
